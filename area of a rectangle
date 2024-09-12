@@ -1,0 +1,10 @@
+//area of a rectangle
+#include<stdio.h>
+int main(){
+    int l=4;
+    int w=2;
+    int area;
+    area=l*w;
+    printf("the area is %d",area);
+    return 0;
+}
